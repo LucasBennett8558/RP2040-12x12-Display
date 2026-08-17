@@ -1,5 +1,7 @@
 # RP2040 + 12x12 LED Microcomputer
 
+[RP2040 + 12x12 Display (Theme).pdf](https://github.com/user-attachments/files/31155070/RP2040.%2B.12x12.Display.Theme.pdf)
+
 A small, custom RP2040-based microcomputer designed as my first serious electronics project.
 
 This project is primarily a learning exercise. Over the past few weeks, I've been teaching myself electrical engineering, PCB design, and schematic layout, and this board is the result of putting that knowledge into practice.
