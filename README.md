@@ -28,7 +28,7 @@ The primary demonstration project will probably be a simple **Snake game** runni
 * [x] Learn enough electronics to become dangerous
 * [x] Design the schematic
 * [x] Select and source components
-* [x] Create the PCB layout
+* [-] Create the PCB layout
 * [ ] Manufacture the PCB
 * [ ] Assemble the board
 * [ ] Power it on without releasing the magic smoke
