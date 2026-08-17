@@ -1,6 +1,46 @@
-This project is the culmination of the last few weeks I spent learning electrical engineering on my own. This is my first project and suffice to say, any criticism would be much appreciated! 
-The majority of it is really just reference designs, Phil's Lab tutorials, and reccomendations given to other people on this same channel. 
-The point of the project was to learn about laying out schematics not necessarily having it work perfectly. It would be epic though, if I could make my own PCB. I built it keeping in mind that someone may have to review it and I don't want it to be a nightmare of wiring.
- I have not made the PCB yet, but I have sourced all the parts; about $30 on their own. 
-I will not be offended if you don't think it's worth fixing, and I can always start over.
-My intent is to 3D-print an enclosure and connect some controls to the GPIO headers I exposed and use it to run snake, or use it as a microcontroller.
+# RP2040 + 12x12 LED Microcomputer
+
+A small, custom RP2040-based microcomputer designed as my first serious electronics project.
+
+This project is primarily a learning exercise. Over the past few weeks, I've been teaching myself electrical engineering, PCB design, and schematic layout, and this board is the result of putting that knowledge into practice.
+
+## About the Project
+
+The original goal wasn't necessarily to design a perfect, production-ready board. I wanted to learn how to design a reasonably complete schematic and PCB from the ground up, while keeping the design organized enough that someone else could actually review it without having to decipher a nightmare of wiring.
+
+A lot of the design is based on reference designs, Phil's Lab tutorials, datasheets, and recommendations I've received while learning. If you recognize something that looks suspiciously like a reference design, that's probably because it is.
+
+I haven't manufactured the PCB yet, so whether the board actually works remains to be seen. I've sourced the components, though, and the parts currently cost roughly **$30 USD**.
+
+## Intended Use
+
+The eventual plan is to 3D-print an enclosure for the board and connect various controls and peripherals through the exposed GPIO headers.
+
+The primary demonstration project will probably be a simple **Snake game** running on a 10×10 RGB LED matrix, but I'd also like the board to be useful as a general-purpose RP2040 microcontroller platform.
+
+## Current Status
+
+* [x] Learn enough electronics to become dangerous
+* [x] Design the schematic
+* [x] Select and source components
+* [x] Create the PCB layout
+* [ ] Manufacture the PCB
+* [ ] Assemble the board
+* [ ] Power it on without releasing the magic smoke
+* [ ] Test the hardware
+* [ ] Build a 3D-printed enclosure
+* [ ] Get Snake running
+
+## Feedback
+
+This is my **first PCB/electronics project**, so criticism is very welcome.
+
+If you spot a bad design decision, questionable component choice, layout mistake, missing protection, or something that is simply going to explode when I turn it on, I'd genuinely like to know. The goal of putting this project on GitHub is partly to get it reviewed and learn from the mistakes before I manufacture it.
+
+And if you think the design isn't worth salvaging, that's fine too. I'm completely willing to scrap it and start over if that's what I need to learn.
+
+## Disclaimer
+
+This board has **not been manufactured or tested yet**. Everything beyond the schematic and PCB design is currently theoretical.
+
+If it works on the first try, I will be just as surprised as you are.
