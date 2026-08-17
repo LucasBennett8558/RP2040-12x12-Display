@@ -1,13 +1,13 @@
 # RP2040 + 12x12 LED Microcomputer
 
-<img width="4961" height="3508" alt="RP2040 + 12x12 Display (Theme)" src="https://github.com/user-attachments/assets/eeef72b6-7fb8-4d72-a080-9f3d9041fdc9" />
-<img width="4961" height="3508" alt="RP_Display (Theme)" src="https://github.com/user-attachments/assets/aa23c5c2-f275-4bdd-8770-09dca3d9f253" />
-
 A small, custom RP2040-based microcomputer designed as my first serious electronics project.
 
 This project is primarily a learning exercise. Over the past few weeks, I've been teaching myself electrical engineering, PCB design, and schematic layout, and this board is the result of putting that knowledge into practice.
 
 ## About the Project
+
+<img width="4961" height="3508" alt="RP2040 + 12x12 Display (Theme)" src="https://github.com/user-attachments/assets/eeef72b6-7fb8-4d72-a080-9f3d9041fdc9" />
+<img width="4961" height="3508" alt="RP_Display (Theme)" src="https://github.com/user-attachments/assets/aa23c5c2-f275-4bdd-8770-09dca3d9f253" />
 
 The original goal wasn't necessarily to design a perfect, production-ready board. I wanted to learn how to design a reasonably complete schematic and PCB from the ground up, while keeping the design organized enough that someone else could actually review it without having to decipher a nightmare of wiring.
 
