@@ -1,6 +1,7 @@
 # RP2040 + 12x12 LED Microcomputer
 
-[RP2040 + 12x12 Display (Theme).pdf](https://github.com/user-attachments/files/31155070/RP2040.%2B.12x12.Display.Theme.pdf)
+<img width="4961" height="3508" alt="RP2040 + 12x12 Display (Theme)" src="https://github.com/user-attachments/assets/eeef72b6-7fb8-4d72-a080-9f3d9041fdc9" />
+<img width="4961" height="3508" alt="RP_Display (Theme)" src="https://github.com/user-attachments/assets/aa23c5c2-f275-4bdd-8770-09dca3d9f253" />
 
 A small, custom RP2040-based microcomputer designed as my first serious electronics project.
 
