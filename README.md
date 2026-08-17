@@ -19,7 +19,7 @@ I haven't manufactured the PCB yet, so whether the board actually works remains 
 
 The eventual plan is to 3D-print an enclosure for the board and connect various controls and peripherals through the exposed GPIO headers.
 
-The primary demonstration project will probably be a simple **Snake game** running on a 10×10 RGB LED matrix, but I'd also like the board to be useful as a general-purpose RP2040 microcontroller platform.
+The primary demonstration project will probably be a simple **Snake game** running on a 12×12 RGB LED matrix, but I'd also like the board to be useful as a general-purpose RP2040 microcontroller platform.
 
 ## Current Status
 
