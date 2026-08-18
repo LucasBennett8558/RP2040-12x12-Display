@@ -38,7 +38,6 @@
 |Generic      | 10uF Ceramic Capacitor        | 6        | https://jlcpcb.com/partdetail/10337-CL31A106KAHNNNE/C9807                 | C9807              | $0.11   |
 |WS2812C      | Addressable RGB LED           | 144      | https://jlcpcb.com/partdetail/Worldsemi-WS2812C/C114587                   | C114587            | $0.13   |
 |RP2040       | 133MHz Microproccesor         | 1        | https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040                    | C2040              | $0.99   |
-|-------------|-------------------------------|----------|---------------------------------------------------------------------------|--------------------|---------|
 
 37 Items at $30.69
 *If there's no reason to care, then I just wrote 'Generic'.
